@@ -1,0 +1,9 @@
+* trivial-http
+
+trivial (really) HTTP library for Common Lisp -- probably better to use something else!
+
+|---------+------------------------------------------------|
+| source  | git:https://github.com/gwkkwg/trivial-http.git |
+| commit  | ca45656                                        |
+| systems | trivial-http                                   |
+|---------+------------------------------------------------|
